@@ -1,5 +1,5 @@
 # container-group
-![](images/container-group-logo.png)
+![](logo/container-group-logo.png)
 
 AWSKRUG 컨테이너 소모임입니다.
 
