@@ -7,8 +7,11 @@ AWSKRUG 컨테이너 소모임은 AWS와 클라우드 컴퓨팅에 관심 있는
 
 ***#Docker #ECS #EKS #Fargate #Kubernetes***
 
-## Organizer
+# Organizer
 - 김현민
 - 우여명
 - 유정렬
 - 류한진
+
+# 소모임 이력
+- [2018년 소모임](meetups/2018.md)
