@@ -4,7 +4,7 @@
 
 안녕하세요! AWSKRUG 컨테이너 소모임입니다.
 
-2018년 4월부터, AWSKRUG 컨테이너 소모임은 AWS와 클라우드 컴퓨팅에 관심 있는 분들중에서도, 특히 컨테이너 관련 서비스-도커-에 관심있는 분들이 모여서 서로 지식과 정보를 교류하는 시간을 가지고 있습니다. 한달에 한번씩 컨테이너 관련된 주제로 자신의 경험, 공부한 내용 등을 공유합니다. 
+2018년 4월부터, AWSKRUG 컨테이너 소모임은 AWS와 클라우드 컴퓨팅에 관심 있는 분들중에서도, 특히 컨테이너 관련 서비스에 관심있는 분들이 모여서 서로 지식과 경험을 교류하는 시간을 가지고 있습니다.
 
 <strong><u>공유해주시는 분들께는 $100의 AWS 크레딧이 제공됩니다.</u></strong>
 
@@ -35,7 +35,7 @@
 - ***발표자는 언제나 환영입니다. 발표자에게는 100$의 크레딧이 제공됩니다.***
 - 발표 신청 방법 
     - [slack의 container 채널](https://awskrug.slack.com/messages/C9S1VFJFR)
-    - 운영진(`voyagerwoo`)에게 Direct Message
+    - 슬랙에서 운영진(`voyagerwoo`)에게 Direct Message
     - `voyager.woo@gmail.com`로 email
 
 # Organizer
