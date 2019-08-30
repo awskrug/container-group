@@ -37,9 +37,9 @@
 - ***발표자는 언제나 환영입니다. 발표자에게는 100$의 크레딧이 제공됩니다.***
 
 ##  발표 신청 방법 
-    - [slack의 container 채널](https://awskrug.slack.com/messages/C9S1VFJFR)
-    - 슬랙에서 운영진(`voyagerwoo`)에게 Direct Message
-    - `voyager.woo@gmail.com`로 email
+- [slack의 container 채널](https://awskrug.slack.com/messages/C9S1VFJFR)
+- 슬랙에서 운영진(`voyagerwoo`)에게 Direct Message
+- `voyager.woo@gmail.com`로 email
 
 # Organizer
 - 김현민
