@@ -29,7 +29,6 @@
     - Kubernetes, EKS, kops, helm 등 Kubernetes 및 관련 도구들에 대한 기초 및 운영 경험
     - 컨테이너 기술을 활용하여 아키텍처를 개선한 경험
     - 컨테이너 기술을 활용하여 자동화를 구축한 경험
-
 - 소모임 공지는 [meetup](https://www.meetup.com)에 작성하고 [facebook](https://www.facebook.com/groups/awskrug/)과 [slack의 container 채널](https://awskrug.slack.com/messages/C9S1VFJFR)을 통해서 사람들에게 알립니다.
 - 소모임은 어떤 모임이든 자유로운 토론과 토의를 지향합니다.
 - 소모임은 기본적으로 한개의 발표세션 또는 한개의 실습 세션과 네트워킹 세션으로 구성됩니다.
