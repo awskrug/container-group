@@ -1,0 +1,29 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  <title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
+
+  <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/spectre.min.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/highlight.css" | absURL }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+  {{ range .Site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{ end }}
+
+  {{ if .Site.Params.enableRSS }}
+    <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
+
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/google_news.html" . }}
+  {{ template "_internal/schema.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+</head>

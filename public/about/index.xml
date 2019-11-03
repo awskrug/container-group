@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on 컨테이너 소모임</title>
+    <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/about/</link>
+    <description>Recent content in About on 컨테이너 소모임</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

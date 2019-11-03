@@ -1,0 +1,52 @@
+# Site settings
+baseurl = "https://example.com/"
+languageCode = "en-us"
+title = "Spectre Pixel Theme"
+theme = "spectre-pixel"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+  name = "John Doe"
+  altName = "John"
+  description = "Describe your website"
+  bio = "Blogger & Programmer"
+  enableRSS = true
+
+  # Author information in posts
+  aboutAuthor = "I'm a Programmer."
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = [
+    "https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+  ]
+  customJS  = []
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+	home = ""
+	subscribe = ""
+
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+# Add additional social link entries underneath
+[social]
+	email    = "john.doe@email.com"
+	facebook = "https://www.facebook.com/"
+	github   = "https://www.github.com/"
+	linkedin = "https://www.linkedin.com/"
+	twitter  = "https://www.twitter.com/"
+
+[taxonomies]
+  tag = "tags"

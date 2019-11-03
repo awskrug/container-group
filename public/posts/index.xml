@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 컨테이너 소모임</title>
+    <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/</link>
+    <description>Recent content in Posts on 컨테이너 소모임</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019년 10월 30일 소모임 - 컨텐츠 리뷰 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-10/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-10/</guid>
+      <description>  일시: 2019년 10월 30일 (목) 오후7시30분~9시30분 장소: 서울 강남구 논현로85길 46 GALA빌딩 지하 1층 대강연장 meetup: https://www.meetup.com/awskrug/events/265631311/ facebook  https://www.facebook.com/groups/awskrug/permalink/2109528325815847/   10월 소모임 주제  주제 : PostgreSQL를 중심으로한 &amp;ldquo;쿠버네티스에서 데이터베이스 구성하기&amp;rdquo; 살펴보기 MC : 윤평호 - AWSKRUG 자료  PostgreSQL as a Service with Kubernetes: https://www.slideshare.net/Equnix/pgconfasia-2019-bali-building-postgresql-as-a-service-with-kubernetes-takahiro-kobayashi A Guide of PostgresSQL on Kubernetes: https://www.slideshare.net/t8kobayashi/a-guide-of-postgresql-on-kubernetes PostgreSQL on K8S at Zalando: https://www.slideshare.net/Equnix/pgconfasia-2019-bali-postgresql-on-k8s-at-zalando-alexander-kukushkin CEPH 소개영상: https://www.youtube.com/watch?time_continue=55&amp;amp;v=QBkH1g4DuKE   </description>
+    </item>
+    
+    <item>
+      <title>2019년 9월 25일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-09/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-09/</guid>
+      <description>  일시: 2019년 9월 25일 (수) 오후7시30분~9시30분 장소: 서울 강남구 논현로85길 46 GALA빌딩 지하 1층 대강연장 meetup: https://www.meetup.com/awskrug/events/264425998/ facebook  https://www.facebook.com/groups/awskrug/permalink/2041599972608683/   9월 소모임 주제  주제 : 촌스러운 CodeBuild, 세련되게 사용하기 - 자동화 코드빌드로 다하기 CI , CD, Batch 스피커: 송주영 - beNX https://aws.amazon.com/ko/codebuild/  </description>
+    </item>
+    
+    <item>
+      <title>2019년 8월 21일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-08/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-08/</guid>
+      <description>  일시: 2019년 8월 21일 (수) 오후7시30분~9시30분 장소: 서울시 강남구 논현로 508 GS Tower 12층 meetup: https://www.meetup.com/awskrug/events/263607584/ facebook  https://www.facebook.com/groups/awskrug/permalink/1982062038562477/ https://www.facebook.com/groups/awskrug/permalink/1982101858558495/   8월 소모임 주제  주제 : github, circle CI, argo-cd를 이용한 kubernetes CI/CD 파이프라인 구축 스피커: 유정열 (nalbam)  </description>
+    </item>
+    
+    <item>
+      <title>2019년 7월 17일 소모임 - 동영상 토론 소모임 🎥</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-07/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-07/</guid>
+      <description>  일시: 2019년 7월 17일 (수) 오후7시30분~9시30분 장소: 서울시 강남구 논현로 508 GS Tower 12층 meetup: https://www.meetup.com/awskrug/events/262706370/ facebook: https://www.facebook.com/groups/awskrug/permalink/1925321307569884/  7월 동영상 토론 소모임 주제  동영상 제목: Taking Docker to Production: What You Need to Know and Decide (도커를 프로덕션에 도입하기: 알아야할 것과 결정해야할 것) 링크: https://www.youtube.com/watch?v=6jT83lT6TU8 스피커: Bret Fisher (DevOps Consultant, Docker Captain) 오늘의 MC: 우여명 (Software Engineer, 아이스크림에듀)  </description>
+    </item>
+    
+    <item>
+      <title>2019년 6월 19일 소모임 - 동영상 토론 소모임 🎥</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-06/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-06/</guid>
+      <description> 2019년 6월 19일 소모임 - 동영상 토론 소모임 🎥  일시: 2019년 6월 19일 (수) 오후7시30분~9시30분 장소: 서울 강남구 논현로85길 46 GALA빌딩 지하 1층 대강연장 meetup: https://www.meetup.com/awskrug/events/261799243/ facebook: https://www.facebook.com/groups/awskrug/permalink/1880534848715197/  6월 동영상 토론 소모임 소개  동영상 제목: Deep dive into Kubernetes networking by Sreenivas Makam (쿠버네티스 네트워킹 딥다이브 by Sreenivas Makam) 링크: https://www.youtube.com/watch?v=NUt9VVG_gac 스피커: Sreenivas Makam (Partner Engineer at Google Cloud) 오늘의 MC: 이재성 (DevOps 엔지니어, 비바리퍼블리카)  </description>
+    </item>
+    
+    <item>
+      <title>2019년 5월 16일 소모임 - 동영상 토론 소모임 🎥</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-05/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-05/</guid>
+      <description>  일시: 2019년 5월 16일 (목) 오후7시30분~9시30분 장소: 서울 강남구 논현로85길 46 GALA빌딩 지하 1층 대강연장 meetup: https://www.meetup.com/awskrug/events/261074772/ facebook: https://www.facebook.com/groups/awskrug/permalink/1827457067356309/  5월 동영상 토론 소모임 소개  동영상 제목: All You Need to Know to Deploy Applications on Kubernetes (쿠버네티스에서 애플리케이션 배포를 위해 알아야할 모든 것!) 링크: https://youtu.be/NkKyS_vkWf4 스피커: Eric Johnson (Engineering Manager, Google), Oleksandr Slynko (Staff Software Engineer, Pivotal) 오늘의 MC: 김현민 (Solutions Architect, Megazone)  </description>
+    </item>
+    
+    <item>
+      <title>2019년 3월 21일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-03/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-03/</guid>
+      <description>  일시: 2019년 3월 21일 (목) 오후7시30분~9시30분 장소: 서울시 강남구 논현로 508 GS Tower 12층 meetup: https://www.meetup.com/awskrug/events/259646318/ facebook: https://www.facebook.com/groups/awskrug/permalink/1748944801874203/  EKS hands-on #1 - 우여명  워크샵 준비하기 eksctl을 이용하여 EKS 실행 쿠버네티스 대시보드 배포 마이크로서비스 예제 배포 EKS에서 스팟 인스턴스 사용  </description>
+    </item>
+    
+    <item>
+      <title>2019년 2월 28일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-02/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2019-02/</guid>
+      <description>  일시: 2019년 2월 28일 (목) 오후7시30분~9시30분 장소: 베스핀글로벌 어스룸 (서울특별시 서초구 강남대로 327 대륭서초타워 16층) meetup: https://www.meetup.com/awskrug/events/258624803/ facebook: https://www.facebook.com/groups/awskrug/permalink/1722393587862658/  1. ECS 사용사례 공유 ( 부제: ECS 어디까지 써봤니?) - 이재성 (Playauto)  발표자료 : https://www.slideshare.net/JaeSeongLee19/ecs-134788675  2. 라이트닝 토크 및 네트워킹 </description>
+    </item>
+    
+    <item>
+      <title>2018년 12월 20일 연말 통합소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-12/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-12/</guid>
+      <description>  일시: 2018년 11월 15일 (목) 오후7시30분~9시30분 장소: 지하철 2호선 역삼역 7번출구 GS타워 12층, AWS코리아 meetup : https://www.meetup.com/awskrug/events/257050186/ or https://festa.io/events/172 facebook  https://www.facebook.com/groups/awskrug/permalink/1628926200542731/ https://www.facebook.com/groups/awskrug/permalink/1628944117207606/ https://www.facebook.com/groups/awskrug/permalink/1629216530513698/   App Mesh 및 Cloud Map 신규 서비스 소개 - 윤석찬(AWS) 발표자료  https://www.slideshare.net/awskorea/aws-container-re-invent-recap  </description>
+    </item>
+    
+    <item>
+      <title>2018년 11월 15일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-11/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-11/</guid>
+      <description>  일시: 2018년 11월 15일 (목) 오후7시30분~9시30분 장소: 서울 강남구 테헤란로87길 29 M타워 8층 베스핀글로벌 요다룸 meetup : https://www.meetup.com/awskrug/events/256000981/ facebook : https://www.facebook.com/photo.php?fbid=2379106815649853  컨테이너에 관심있는 사람들의 네트워킹 (치킨) 파티  오프닝  컨테이너 모임 소개 간단한 자기 소개 랜덤 질문하기  치킨과 함께 그룹별로 이야기하기  </description>
+    </item>
+    
+    <item>
+      <title>2018년 10월 18일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-10/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-10/</guid>
+      <description>  일시: 2018년 10월 18일 (목) 오후7시00분~9시00분 장소: 지하철 2호선 역삼역 메가존 지하 1층 대강연장 meetup : https://www.meetup.com/awskrug/events/255192753/ facebook  https://www.facebook.com/photo.php?fbid=2361468694080332 https://www.facebook.com/photo.php?fbid=2276254009112936   컨테이너 환경에서 지표 수집 - 우여명 발표자료  https://drive.google.com/file/d/1Wu9PerM0wxs_fGeDDZa-Y8uv_kTRp-Hi/view
+Spring One 2018 참관기 - 김현민 (메가존) 발표자료 TODO
+  </description>
+    </item>
+    
+    <item>
+      <title>2018년 9월 19일 통합 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-09/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-09/</guid>
+      <description>  일시: 2019년 9월 19일(수) 18:40-21:00 장소: 선릉역 디캠프 6층 대회의실 공간후원 : 은행권청년창업재단 D.CAMP meetup : https://www.meetup.com/awskrug/events/254585156/ facebook : https://www.facebook.com/photo.php?fbid=10156500317106827  Slack과 Rust로 Amazon ECS에 서비스 배포하기 - 유은총(스포카) 발표자료  https://www.slideshare.net/eunchongyu/slack-rust-amazon-ecs  </description>
+    </item>
+    
+    <item>
+      <title>2018년 7월 19일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-07/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-07/</guid>
+      <description>일시: 2018년 7월 19일 (목) 오후7시00분~9시00분 장소: 지하철 2호선 역삼역 2번출구 메가존 (GALA빌딩) 지하 1층 이벤트홀 meetup : https://www.meetup.com/awskrug/events/252234960/ facebook : https://www.facebook.com/photo.php?fbid=2288502854710250  ECS 클러스터 &amp;amp; 서비스 오토스케일링 데모 - 우여명 ECS의 서비스 오토스케일링, 인스턴스 오토스케일링을 소개하고 시연해봅니다.
+발표자료  https://drive.google.com/open?id=1rjfawb1ZDBLTgofILlYEH5ubqrRGfvXQ  공유자료  KOPS hands-on : kubernetes로는 어떻게 오토스케일링 하는지 알아볼 수 있습니다.  ECS 클러스터 &amp;amp; 서비스 오토스케일링 - 육승찬(레드아이스) ECS 활용하여 웹서버 오토스케일링 적용 경험을 공유합니다.</description>
+    </item>
+    
+    <item>
+      <title>2018년 6월 21일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-06/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-06/</guid>
+      <description>  일시: 2018년 6월 21일 (목) 오후7시00분~9시00분 장소: 지하철 2호선 역삼역 7번출구 GS타워 12층, AWS코리아 meetup : https://www.meetup.com/awskrug/events/251467130/ facebook : https://www.facebook.com/photo.php?fbid=10156275149261827  DOCKERIZE! - 우여명 나의 앱을 도커로 서비스하려면 우선 실행 가능한 도커 이미지로 만들어야합니다. 이를 dockerize라고 합니다. 이번 시간에는 여러가지 앱들을 dockerize하는 방법에 대해서 공유해 봅니다.
+발표자료  https://drive.google.com/open?id=1jx3Lsck_tpNyPn8IjwA4Vs8OBUOMlbCu  EKS + Terraform - 유정열(베스핀글로벌) Amazon Elastic Container Service for Kubernetes을 Terraform으로 구성해 봅니다.
+발표자료  https://github.com/nalbam/docs/blob/master/201806/EKS/README.md  </description>
+    </item>
+    
+    <item>
+      <title>2018년 5월 15일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-05/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-05/</guid>
+      <description>  일시: 2018년 5월 15일(화) 오후7시00분~9시00분 장소: 지하철 2호선 역삼역 7번출구 GS타워 12층, AWS코리아 meetup : https://www.meetup.com/awskrug/events/250577954/ facebook : https://www.facebook.com/photo.php?fbid=1913694445310424  클라우드 네이티브 애플리케이션을 위한 컨테이너와 서버리스 - 정영준 (AWS) 어플리케이션의 아키텍처를 보다 유연하고 신속하게 확장 가능한 형태로 만들기 위하여 고려해야할 사항들에 대해서 알아보고, 컨테이너와 서버리를 어떻게 활용하여 개발 할 수 있는지에 대하여 이야기 합니다.
+Rancher를 이용한 컨테이너 오케스트레이션 기본 입문 - 김현민 (메가존) 발표자료  https://www.slideshare.net/HyunminKim5/awskrug-rancher  </description>
+    </item>
+    
+    <item>
+      <title>2018년 4월 24일 소모임</title>
+      <link>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-04/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/posts/meetup-2018-04/</guid>
+      <description>  일시: 2018년 4월 24일(화) 오후7시30분~9시30분 장소: 지하철 2호선 역삼역 7번출구 GS타워 12층, AWS코리아 meetup : https://www.meetup.com/awskrug/events/249444069/ facebook : https://www.facebook.com/photo.php?fbid=1924624570914951  도커 초보의 ECS 배포 실습 - 우여명 준비된 도커 이미지들을 가지고 ECS 배포 실습 1. Web UI를 통해서 배포 실습 2. ECS CLI를 통해서 배포 실습
+발표자료  https://drive.google.com/open?id=1oB77Rdkos8vPGFdmGMiVvjR-3fCJFCKk  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+<header class="container p-centered text-center mt-space">
+  <a class="avatar avatar-profile" href="{{ "about" | absURL }}">
+    <img id="profile">
+  </a>
+  <div class="my-2 py-2">
+    <h3>{{ .Site.Params.name }} {{ if .Site.Params.altName }}<span class="text-clip">[ {{ .Site.Params.altName }} ]</span>{{ end }}</h3>
+    <h5 class="text-gray text-italic">{{ .Site.Params.bio | markdownify }}</h5>
+  </div>
+</header>

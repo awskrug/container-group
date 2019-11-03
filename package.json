@@ -1,0 +1,21 @@
+{
+  "name": "container-group",
+  "version": "1.0.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awskrug/container-group"
+  },
+  "scripts": {
+    "drafts": "hugo server -w -v -DF --disableFastRender --enableGitInfo --bind=0.0.0.0",
+    "server": "hugo server -w -v --enableGitInfo --bind=0.0.0.0 --port 8080 --navigateToChanged",
+    "build": "hugo -D",
+    "deploy": "aws s3 sync public/ s3://awskrug-container-group-www/ --delete --profile voyagerwoo"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "hugo-cli": "^0.7.0",
+    "hugo-lunr": "0.0.4",
+    "mermaid": "^8.0.0-rc.8"
+  }
+}
