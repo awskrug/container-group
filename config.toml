@@ -13,7 +13,7 @@ theme = "spectre-pixel"
   enableRSS = false
 
   # Author information in posts
-  aboutAuthor = "AWSKRUG container group"
+  aboutAuthor = "한국 AWS 사용자 모임: 컨테이너 소모임 운영진"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"

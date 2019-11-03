@@ -2,12 +2,7 @@
   <nav class="navbar p-2 s-rounded shadow bg-primary">
     <section class="navbar-section">
       <!-- <button class="btn btn-action btn-primary s-circle text-gray" id="pixelfont-toggle"><i class="fas fa-robot fa-lg"></i></button> -->
-      {{ if not .IsHome }}
-        <a class="btn btn-primary" href='{{ .Site.BaseURL }}'>{{ .Site.Params.title }}</a>
-      {{ end }}
-      {{ if .IsHome }}
-        {{ .Site.Params.title }}
-      {{ end }}
+      <a class="btn btn-primary" href='{{ .Site.BaseURL }}'>{{ .Site.Params.title }}</a>
     </section>
     <section class="navbar-section">
       <!-- {{ if not .IsHome }}
