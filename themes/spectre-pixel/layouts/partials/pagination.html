@@ -1,0 +1,20 @@
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination">
+  {{ if .Paginator.HasPrev }}
+    <span class="page-item page-prev">
+      <a href="{{ .Paginator.Prev.URL }}">
+        <div class="page-item-subtitle">{{ .Site.Params.newerPosts | default "Newer Posts" }}</div>
+        <div class="page-item-title btn btn-action btn-accent shadow s-circle"><i class="fas fa-arrow-left"></i></div>
+      </a>
+    </span>
+  {{ end }}
+  {{ if .Paginator.HasNext }}
+    <span class="page-item page-next">
+      <a href="{{ .Paginator.Next.URL }}">
+        <div class="page-item-subtitle">{{ .Site.Params.olderPosts | default "Older Posts" }}</div>
+        <div class="page-item-title btn btn-action btn-accent shadow s-circle"><i class="fas fa-arrow-right"></i></div>
+      </a>
+    </span>
+  {{ end }}
+</nav>
+{{ end }}

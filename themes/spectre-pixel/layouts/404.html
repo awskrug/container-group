@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="container p-centered text-center mt-space">
+  <header>
+    <img src="{{ "images/lost.png" | absURL }}">
+  </header>
+  <section class="my-gap">
+    <h2>{{ .Site.Params.title404 | default "404 - Page not found" }}</h2>
+    <h3 class="text-gray text-italic">{{ .Site.Params.subtitle404 | default "The content you're looking for doesn't seem to exist." }}</h3>
+  </section>
+  <footer>
+    <a class="btn btn-action btn-accent shadow s-circle" href='{{ .Site.BaseURL }}'><i class="fas fa-home"></i></a>
+  </footer>
+</article>
+{{ end }}

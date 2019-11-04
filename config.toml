@@ -1,0 +1,47 @@
+baseURL = "http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/"
+languageCode = "en-us"
+title = "컨테이너 소모임"
+theme = "spectre-pixel"
+
+
+[params]
+  title = "🐳 컨테이너 소모임"
+  name = "AWRKRUG container group"
+  altName = "컨테이너 소모임"
+  description = "한국 AWS 사용자 모임: 컨테이너 소모임 웹사이트"
+  bio = "컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다."
+  enableRSS = false
+
+  # Author information in posts
+  aboutAuthor = "한국 AWS 사용자 모임: 컨테이너 소모임 운영진"
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = [
+    "https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+  ]
+  customJS  = []
+
+  # The variables below are optionally too and can be used to
+  # translate or customize each string of the theme.
+
+  # Navigation links
+	home = ""
+	subscribe = ""
+
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	copyright = ""
+
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+# Add additional social link entries underneath
+[social]
+	facebook = "https://www.facebook.com/groups/awskrug/"
+	github   = "https://www.github.com/awskrug"
+
+[taxonomies]
+  tag = "tags"

@@ -1,0 +1,131 @@
+@font-face {
+    font-family: "PixelCode";
+    src: url('../fonts/ONESIZE_.TTF');
+}
+@font-face {
+    font-family: "Pixel";
+    src: url('../fonts/Minecraft-Regular.otf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Pixel";
+    src: url('../fonts/Minecraft-Bold.otf');
+    font-style: normal;
+    font-weight:bold;
+}
+@font-face {
+    font-family: "Pixel";
+    src: url('../fonts/Minecraft-Italic.otf');
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Pixel";
+    src: url('../fonts/Minecraft-BoldItalic.otf');
+    font-style: italic;
+    font-weight: bold;
+}
+:root {
+    --font-family: "Helvetica Neue", sans-serif;
+    --code-font-family: Courier, monospace;
+    --color-primary: #3f51b5;
+    --color-primary-hover: #303f9f;
+    --color-primary-visit: #5c6bc0;
+    --color-secondary: #c5cae9;
+    --color-secondary-hover: #7986cb;
+    --color-secondary-visit: #e8eaf6;
+    --color-accent: #e91e63;
+    --color-accent-hover: #c2185b;
+    --color-accent-visit: #ec407a;
+    --color-success: #4caf50;
+    --color-success-hover: #388e3c;
+    --color-success-visit: #66bb6a;
+    --color-warning: #ffc107;
+    --color-warning-hover: #ffa000;
+    --color-warning-visit: #ffca28;
+    --color-error: #ff5722;
+    --color-error-hover: #e64a19;
+    --color-error-visit: #ff7043;
+    --color-gray: #bdbdbd;
+    --color-gray-light: #e0e0e0;
+    --color-gray-dark: #757575;
+    --color-dark: #000;
+    --color-dark-bg: #212121;
+    --color-light: #fff;
+    --color-light-bg: #f2f2f2;
+    --profile-src: url("../images/avatar.png");
+}
+[data-theme='pixel'] {
+    --font-family: "Pixel";
+    --code-font-family: "PixelCode";
+    --color-primary: #be4a2f;
+    --color-primary-hover: #733e39;
+    --color-primary-visit: #d77643;
+    --color-secondary: #e4a672;
+    --color-secondary-hover: #c28569;
+    --color-secondary-visit: #e8b796;
+    --color-accent: #b55088;
+    --color-accent-hover: #68386c;
+    --color-accent-visit: #f6757a;
+    --color-success: #3e8948;
+    --color-success-hover: #265c42;
+    --color-success-visit: #63c74d;
+    --color-warning: #feae34;
+    --color-warning-hover: #f77622;
+    --color-warning-visit: #fee761;
+    --color-error: #e43b44;
+    --color-error-hover: #a22633;
+    --color-error-visit: #ff0044;
+    --color-gray: #5a6988;
+    --color-gray-light: #3a4466;
+    --color-gray-dark: #8b9bb4;
+    --color-dark: #181425;
+    --color-dark-bg: #262b44;
+    --color-light: #ffffff;
+    --color-light-bg: #2ce8f5;
+    --profile-src: url("../images/pixel.png");
+}
+.shadow {
+    box-shadow: .2rem .2rem .5rem rgba(87,85,217,.2);
+}
+.avatar.avatar-profile{
+    height: 300px;
+    width: 300px;
+}
+#profile {
+    background: var(--profile-src);
+    background-size: cover;
+}
+.symbol {
+    display: inline-block;
+    color: var(--color-gray-light);
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    padding: 0.5rem 0;
+}
+.symbol:hover {
+    text-decoration: underline;
+    color: var(--color-accent);
+}
+.mt-space {
+    margin-top: 6rem!important;
+}
+.mx-gap {
+    margin-left: 2rem!important;
+    margin-right: 2rem!important;
+}
+.my-gap {
+    margin-top: 2rem!important;
+    margin-bottom: 2rem!important;
+}
+.tile-title.h4 {
+    margin-bottom: 1em;
+}
+.container p {
+    line-height: 1.7em;
+}
+.container ul li {
+    margin-top: 0.1em;
+}

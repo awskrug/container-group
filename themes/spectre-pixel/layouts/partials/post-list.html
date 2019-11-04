@@ -1,0 +1,32 @@
+<div class="timeline">
+{{ $curYear := 1900 }}
+{{ range where .Paginator.Pages "Section" "ne" "" }}
+  {{ if ne $curYear .Date.Year }}
+    {{ $curYear = .Date.Year }}
+    <div class="timeline-item">
+      <div class="timeline-left tooltip" data-tooltip="Year {{ $curYear }}">
+        <div class="timeline-icon icon-lg"><i class="far fa-calendar-check"></i></div>
+      </div>
+      <div class="timeline-content">
+        <div class="tile">
+          <div class="tile-content"><kbd class="tile-title h4">{{ $curYear }}</kbd></div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  <div class="timeline-item">
+    <div class="timeline-left tooltip" data-tooltip="{{ .Date.Format "January 2006" }}">
+      <i class="timeline-icon"></i>
+    </div>
+    <div class="timeline-content">
+      <div class="divider my-2" data-content="{{ .Date.Format "January" }}"></div>
+      <a class="tile s-rounded shadow my-gap p-2" href="{{ .Permalink }}" style="text-decoration:none">
+        <div class="tile-content">
+          <div class="tile-title h4">{{ .LinkTitle }}</div>
+          <div class="tile-subtitle text-dark">{{ .Description | markdownify }}</div>
+        </div>
+      </a>
+    </div>
+  </div>
+{{ end }}
+</div>

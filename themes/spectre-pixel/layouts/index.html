@@ -1,0 +1,10 @@
+{{ define "profile" }}
+ 	{{ partial "profile.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container my-gap">
+ 	{{ partial "post-list.html"  . }}
+ 	{{ partial "pagination.html" . }}
+</div>
+{{ end }}

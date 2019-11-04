@@ -1,0 +1,14 @@
+{{ define "profile" }}
+  {{ partial "profile.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container my-gap">
+  {{ $data := .Data }}
+  {{ range $key, $value := .Data.Terms.ByCount }}
+    {{ if ($value.Name) }}
+      <a class="chip text-accent" href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }} ({{ $value.Count }})</a>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

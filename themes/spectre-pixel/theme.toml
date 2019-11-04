@@ -1,0 +1,18 @@
+name = "Spectre Pixel Theme"
+license = "MIT"
+licenselink = "https://github.com/st-wong/hugo-spectre-pixel-theme/blob/master/LICENSE.md"
+description = "Material/Pixel switch theme with a timeline"
+homepage = "https://github.com/st-wong/hugo-spectre-pixel-theme"
+tags = ["modern design", "timeline", "blog", "portfolio", "resume", "responsive", "pixel", "font awesome", "spectre css framework", "devicon", "google analytics", "rss", "syntax highlighting", "pagination"]
+features = ["modern design", "timeline", "blog", "portfolio", "resume", "responsive", "pixel", "font awesome", "spectre css framework", "devicon", "google analytics", "rss", "syntax highlighting", "pagination"]
+min_version = "0.41"
+
+[author]
+  name = "Shin Tatt"
+  homepage = "https://st-wong.github.io"
+
+[original]
+  # Inspired by Cactus theme
+  name = "Cactus"
+  homepage = "https://github.com/digitalcraftsman"
+  repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"

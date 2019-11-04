@@ -1,0 +1,10 @@
+<div class="container">
+{{ range $key, $val := .Site.Social }}
+  {{ if eq $key "email" }}
+    <a class="symbol" href="mailto:{{ $val }}" target="_blank"><i class="fas fa-envelope"></i>
+  {{ else }}
+    <a class="symbol" href="{{ $val }}" target="_blank"><i class="fab fa-{{ $key }}"></i>
+  {{ end }}
+  </a>
+{{ end }}
+</div>
