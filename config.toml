@@ -1,4 +1,4 @@
-baseURL = "http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaws.com/"
+baseURL = "https://awskrug.github.io/container-group/"
 languageCode = "en-us"
 title = "컨테이너 소모임"
 theme = "spectre-pixel"
