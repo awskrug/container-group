@@ -2,7 +2,7 @@ baseURL = "http://awskrug-container-group-www.s3-website.ap-northeast-2.amazonaw
 languageCode = "en-us"
 title = "컨테이너 소모임"
 theme = "spectre-pixel"
-
+publishDir = "docs"
 
 [params]
   title = "🐳 컨테이너 소모임"

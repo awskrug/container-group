@@ -120,3 +120,12 @@
     margin-top: 2rem!important;
     margin-bottom: 2rem!important;
 }
+.tile-title.h4 {
+    margin-bottom: 1em;
+}
+.container p {
+    line-height: 1.7em;
+}
+.container ul li {
+    margin-top: 0.1em;
+}
