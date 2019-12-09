@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 컨테이너 소모임</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://awskrug.github.io/container-group/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019년 12월 09일 소모임</title>
+      <link>https://awskrug.github.io/container-group/posts/meetup-2019-12/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://awskrug.github.io/container-group/posts/meetup-2019-12/</guid>
+      <description>일시: 2019년 12월 9일 (월) 오후7시30분~9시30분 장소: 지하철 2호선 역삼역 메가존 지하 1층 대강연장 인원: &amp;ldquo;40&amp;rdquo;명 장소는 메가존 클라우드에서 지원해주셨습니다. meetup: https://www.meetup.com/awskrug/events/266546591/ facebook: https://www.facebook.com/groups/awskrug/permalink/2187935124641833/  10월 소모임 내용 소개 이 세션에서는 Windows 기반 백앤드 애플리케이션 개발자들이 기존 백앤드 애플리케이션이나 명령줄 애플리케이션을 Windows 컨테이너 기반으로 마이그레이션 하는 방법을 상세하게 설명합니다.
+발표자료 TODO</description>
+    </item>
     
     <item>
       <title>2019년 10월 30일 소모임 - 컨텐츠 리뷰 소모임</title>
