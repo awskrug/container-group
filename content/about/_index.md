@@ -3,10 +3,10 @@ title: 'About'
 menu: "main"
 ---
 
-### 컨테이너 소모임에 대하여
+### 🐳 컨테이너 소모임에 대하여
 안녕하세요! 한국 AWS 사용자 모임의 컨테이너 소모임입니다. 매달 한번씩 만나서 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하고 있어요. 
 
-소모임에서 발표나 공유해주시는 분들께는 $200의 AWS 크레딧이 제공됩니다.
+소모임에서 발표나 공유해주시는 분들께는 커뮤니티 기여에 감사하는 마음으로 $200의 AWS 크레딧과 소정의 선물(☕)을 드립니다.
 
 `#Docker` `#ECS` `#EKS` `#Fargate` `#Kubernetes` ...
 
@@ -23,22 +23,23 @@ menu: "main"
 - 컨테이너 기술을 활용하여 아키텍처를 개선한 경험
 - 컨테이너 기술을 활용하여 자동화를 구축한 경험
 
-***발표자는 언제나 환영입니다. 발표자에게는 200$의 크레딧이 제공됩니다.***
-
 ### 발표 신청 방법 
 - [slack의 container 채널](https://awskrug.slack.com/messages/C9S1VFJFR)
 - 슬랙에서 운영진(`voyagerwoo`)에게 Direct Message
 - `voyager.woo@gmail.com`로 email
+- 구글폼: http://bit.ly/awskrug-cfp
 
 ### Organizer
-- 김현민
-- 우여명
-- 유정렬
-- 류한진
-- 이재성
-- 윤평호
-- 김동현
-- 용찬호
+이름과 슬랙아이디입니다. 슬랙에서 함께 이야기해요.
+
+- 김현민 (`hyunmin`)
+- 우여명 (`voyagerwoo`)
+- 유정렬 (`nalbam`)
+- 류한진 (`hanjin`)
+- 이재성 (`JacksChoco`)
+- 윤평호 (`mosesyoon`)
+- 김동현 (`EastBright`)
+- 용찬호 (`Chanho Yong`)
 
 ### Links
 - [AWSKRUG facebook](https://www.facebook.com/groups/awskrug/)
