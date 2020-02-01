@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="AWRKRUG container group">
+  <meta name="description" content="한국 AWS 사용자 모임: 컨테이너 소모임 웹사이트">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  <title>2020년 01월 14일 소모임 &middot; 컨테이너 소모임</title>
+
+  <link rel="shortcut icon" href="https://awskrug.github.io/container-group/images/favicon.ico">
+  <link rel="stylesheet" href="https://awskrug.github.io/container-group/css/spectre.min.css">
+  <link rel="stylesheet" href="https://awskrug.github.io/container-group/css/style.css">
+  <link rel="stylesheet" href="https://awskrug.github.io/container-group/css/highlight.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+  
+    <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+  
+
+  
+
+  
+  <meta property="og:title" content="2020년 01월 14일 소모임" />
+<meta property="og:description" content="여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb) - MC 이재성" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://awskrug.github.io/container-group/posts/meetup-2020-01/" />
+<meta property="article:published_time" content="2020-01-14T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-01-14T00:00:00+00:00" /><meta property="og:site_name" content="🐳 컨테이너 소모임" />
+
+  
+  <meta itemprop="name" content="2020년 01월 14일 소모임">
+<meta itemprop="description" content="여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb) - MC 이재성">
+
+
+<meta itemprop="datePublished" content="2020-01-14T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-01-14T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="78">
+
+
+
+<meta itemprop="keywords" content="" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="2020년 01월 14일 소모임"/>
+<meta name="twitter:description" content="여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb) - MC 이재성"/>
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-93553136-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-93553136-3');
+</script>
+
+</head>
+
+<body onload="setPixelFont()">
+  <div class="container p-fixed" style="z-index:3">
+  <nav class="navbar p-2 s-rounded shadow bg-primary">
+    <section class="navbar-section">
+      
+      <a class="btn btn-primary" href='https://awskrug.github.io/container-group/'>🐳 컨테이너 소모임</a>
+    </section>
+    <section class="navbar-section">
+      
+
+      
+        <a class="btn btn-primary mx-2" href="/container-group/about/">About</a>
+      
+
+      
+    </section>
+  </nav>
+</div>
+
+  <section class="container grid-md">
+  <div class="columns">
+    
+    
+<article class="container p-centered mt-space">
+  <header>
+    <h2 class="text-center">2020년 01월 14일 소모임</h2>
+    <h6 class="text-gray text-italic">여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb) - MC 이재성</h6>
+  </header>
+  <section class="my-gap">
+    
+
+<div style="text-align:center">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D2714578898769308%26set%3Dpcb.2260955930673085%26type%3D3%26theater%26ifg%3D1&width=350&show_text=true&appId=267443750824008&height=262" width="350" height="262" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<ul>
+<li>일시: 2020년 1월 14일 (화) 오후7시30분~9시30분</li>
+<li>장소: 서울특별시 강남구 테헤란로4길 14, 미림타워 14층 당근마켓</li>
+<li>인원: &ldquo;40&rdquo;명</li>
+<li>장소는 <code>당근마켓</code>에서 지원해주셨습니다.</li>
+<li>meetup: <a href="https://www.meetup.com/awskrug/events/267374797/">https://www.meetup.com/awskrug/events/267374797/</a></li>
+<li>facebook: <a href="https://www.facebook.com/groups/awskrug/permalink/2215626558539356/">https://www.facebook.com/groups/awskrug/permalink/2215626558539356/</a></li>
+</ul>
+
+<h3 id="10월-소모임-내용-소개">10월 소모임 내용 소개</h3>
+
+<p>Airbnb에서 k8s 클러스터를 운영하던 스토리를 듣고, 결국에는 멀티클러스터를 도입하게된 배경에 대해서 토의해보는 시간을 가져보려고 합니다.</p>
+
+<h4 id="참석하면-좋은-사람">참석하면 좋은 사람</h4>
+
+<ul>
+<li>다양한 도메인을 한 클러스터에서 운영하는 분</li>
+<li>2개이상의 컨테이너 클러스터를 운영하고 계신 분</li>
+<li>멀티클러스터에 관심이 있으신 분</li>
+<li>왜 멀티클러스터를 도입하는지 공감이 안되시는 분</li>
+</ul>
+
+<h3 id="참고자료">참고자료</h3>
+
+<ul>
+<li>동영상: <a href="https://www.youtube.com/watch?v=ay7NibpRAYU">https://www.youtube.com/watch?v=ay7NibpRAYU</a></li>
+<li>발표자료: <a href="https://static.sched.com/hosted_files/kccncna19/46/KubeCon%202019%20Scaling%20Kubernetes%20to%20Thousands%20of%20Nodes.pdf">https://static.sched.com/hosted_files/kccncna19/46/KubeCon%202019%20Scaling%20Kubernetes%20to%20Thousands%20of%20Nodes.pdf</a></li>
+<li>알리바바 10000개 노드 운영 사례: <a href="https://www.alibabacloud.com/blog/how-does-alibaba-ensure-the-performance-of-system-components-in-a-10000-node-kubernetes-cluster_595469">https://www.alibabacloud.com/blog/how-does-alibaba-ensure-the-performance-of-system-components-in-a-10000-node-kubernetes-cluster_595469</a></li>
+</ul>
+
+
+    
+  </section>
+  <div class="divider my-gap"></div>
+  <footer class="col-12 d-inline-block">
+    <span class="float-left">
+      <button class="btn btn-action btn-accent shadow s-circle" onclick="window.history.back();"><i class="fas fa-arrow-left"></i></button>
+    </span>
+    <span class="float-right">
+      <div class="text-right float-left mx-2">
+        <span class="text-dark">AWRKRUG container group</span><br>
+        <span class="text-gray">한국 AWS 사용자 모임: 컨테이너 소모임 운영진</span>
+      </div>
+      <figure class="avatar avatar-lg">
+        <img id="profile">
+      </figure>
+    </span>
+  </footer>
+</article>
+
+    <footer class="container p-centered text-center my-gap">
+  
+    <div class="container">
+
+  
+    <a class="symbol" href="https://www.facebook.com/groups/awskrug/" target="_blank"><i class="fab fa-facebook"></i>
+  
+  </a>
+
+  
+    <a class="symbol" href="https://www.github.com/awskrug" target="_blank"><i class="fab fa-github"></i>
+  
+  </a>
+
+</div>
+
+  
+
+  <small class="text-gray">
+  
+    © Copyright 2020 AWRKRUG container group
+  
+  </small>
+</footer>
+
+  </div>
+  </section>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://awskrug.github.io/container-group/js/main.js"></script>
+<script src="https://awskrug.github.io/container-group/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+</body>
+</html>

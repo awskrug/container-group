@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 컨테이너 소모임</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://awskrug.github.io/container-group/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020년 01월 14일 소모임</title>
+      <link>https://awskrug.github.io/container-group/posts/meetup-2020-01/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://awskrug.github.io/container-group/posts/meetup-2020-01/</guid>
+      <description>일시: 2020년 1월 14일 (화) 오후7시30분~9시30분 장소: 서울특별시 강남구 테헤란로4길 14, 미림타워 14층 당근마켓 인원: &amp;ldquo;40&amp;rdquo;명 장소는 당근마켓에서 지원해주셨습니다. meetup: https://www.meetup.com/awskrug/events/267374797/ facebook: https://www.facebook.com/groups/awskrug/permalink/2215626558539356/  10월 소모임 내용 소개 Airbnb에서 k8s 클러스터를 운영하던 스토리를 듣고, 결국에는 멀티클러스터를 도입하게된 배경에 대해서 토의해보는 시간을 가져보려고 합니다.
+참석하면 좋은 사람  다양한 도메인을 한 클러스터에서 운영하는 분 2개이상의 컨테이너 클러스터를 운영하고 계신 분 멀티클러스터에 관심이 있으신 분 왜 멀티클러스터를 도입하는지 공감이 안되시는 분  참고자료  동영상: https://www.</description>
+    </item>
     
     <item>
       <title>2019년 12월 09일 소모임</title>
