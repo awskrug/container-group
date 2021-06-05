@@ -10,7 +10,7 @@
 
 
 ## [(2021/05/27) 모임](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
-[김주영님] - [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐보기](https://www.slideshare.net/WonyoungChoi2/introduce-apache-kafka-and-aws-msk/)
+김주영님 - [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐보기](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 
 
 
