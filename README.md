@@ -10,9 +10,9 @@
 ## [제20회 모임 (2021/06/15)](https://www.meetup.com/ko-KR/awskrug/events/278638827/)
 [- 세션 레코딩영상](https://youtu.be/BM8otOWxLO8)
 
-[유정열님](https://www.facebook.com/nalbam) - [아마존 EKS 업그레이드](container-group/deck/20210616-1.pdf)
+[유정열님](https://www.facebook.com/nalbam) - [아마존 EKS 업그레이드](/deck/20210616-1.pdf)
 
-김지민님 - [ECS와 컨테이너화 및 운영](container-group/deck/20210615-2.pdf)
+김지민님 - [ECS와 컨테이너화 및 운영](/deck/20210615-2.pdf)
 
 ## [제19회 모임 (2021/05/27)](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
 김주영님 - [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐보기](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
