@@ -7,21 +7,22 @@
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
 
-## [제21회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
+## [제22회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
 강용석님, [정영준님](https://www.facebook.com/youngjoon.jeong) - [Building MSA in Enterprise](/deck/20210720.pdf)
 [- 세션 레코딩영상](https://youtu.be/O-4hag2jDBc)
 
-## [제20회 모임 (2021/06/15)](https://www.meetup.com/ko-KR/awskrug/events/278638827/)
+## [제21회 모임 (2021/06/15)](https://www.meetup.com/ko-KR/awskrug/events/278638827/)
 [- 세션 레코딩영상](https://youtu.be/BM8otOWxLO8)
 
 [유정열님](https://www.facebook.com/nalbam) - [아마존 EKS 업그레이드](/deck/20210616-1.pdf)
 
 김지민님 - [ECS와 컨테이너화 및 운영](/deck/20210615-2.pdf)
 
-## [제19회 모임 (2021/05/27)](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
+## [제20회 모임 (2021/05/27)](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
 김주영님 - [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐보기](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 
-
+## [제19회 모임 (2021/11/26)](https://www.meetup.com/ko-KR/awskrug/events/274484152/)
+조성원님 - 5일만에 kops에서 EKS로 production kubernetes cluster 이전하기
 
 ## [제18회 모임 (2020/01/14)](https://www.meetup.com/awskrug/events/267374797/)
 [이재성님](https://www.facebook.com/profile.php?id=100003141275368) - [여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb)](https://www.youtube.com/watch?v=ay7NibpRAYU)
