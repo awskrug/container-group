@@ -6,6 +6,10 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제23회 모임 (2021/08/31)](https://www.meetup.com/ko-KR/awskrug/events/280000666/)
+조성원님 - [Container 최적화 OS, Bottlerocket을 production cluster에 사용해보기](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html?fbclid=IwAR1EAEgmmArvLF0kMjJ0CiDo9b7zE9W4u_xFBwtXxpHCoKicF0K3Z6yfYVo)
+
+주성식님 - [TDS로 시작하는 DevSecOps CICD 파이프라인](/deck/20210831-2.pdf)
 
 ## [제22회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
 강용석님, [정영준님](https://www.facebook.com/youngjoon.jeong) - [Building MSA in Enterprise](/deck/20210720.pdf)
