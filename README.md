@@ -11,7 +11,7 @@
 
 주성식님 - [TDS로 시작하는 DevSecOps CICD 파이프라인](/deck/20210831-2.pdf)
 
-[- 세션 레코딩영상](https://youtu.be/4zu_5uXe2oY)
+[- 세션 레코딩영상](https://youtu.be/1nR7MzgAW-0)
 
 
 ## [제22회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
