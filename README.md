@@ -42,7 +42,7 @@
 조성원님 - 5일만에 kops에서 EKS로 production kubernetes cluster 이전하기
 
 ## [제19회 모임 (2020/04/23)](https://www.meetup.com/awskrug/events/269992784/)
-박윤곤(아이스크림 에듀) - ECS + Locust로 부하테스트 진행하기 
+박윤곤(아이스크림 에듀) - [ECS + Locust로 부하테스트 진행하기](/deck/20200423.pdf)
 
 ## [제18회 모임 (2020/01/14)](https://www.meetup.com/awskrug/events/267374797/)
 [이재성님](https://www.facebook.com/profile.php?id=100003141275368) - [여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb)](https://www.youtube.com/watch?v=ay7NibpRAYU)
