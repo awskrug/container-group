@@ -6,7 +6,17 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
-## [제23회 모임 (2021/08/31)](https://www.meetup.com/ko-KR/awskrug/events/280000666/)
+
+## [제26회 모임 (2022/03/22)](https://www.meetup.com/awskrug/events/284399611/)
+이용혁님 - 남이쓰던 Airflow EKS를 맨땅에서 인계받기
+
+## [제25회 모임 (2021/12/28)](https://www.meetup.com/awskrug/events/282656068/)
+양민석님(AB180) - Python ECS 워크로드 x86에서 ARM으로 이전하기
+
+한승호님(지엔터프라이즈, 구 에멘탈) - aws copilot cli
+
+
+## [제24회 모임 (2021/08/31)](https://www.meetup.com/ko-KR/awskrug/events/280000666/)
 조성원님 - [Container 최적화 OS, Bottlerocket을 production cluster에 사용해보기](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html?fbclid=IwAR1EAEgmmArvLF0kMjJ0CiDo9b7zE9W4u_xFBwtXxpHCoKicF0K3Z6yfYVo)
 
 주성식님 - [TDS로 시작하는 DevSecOps CICD 파이프라인](/deck/20210831-2.pdf)
@@ -14,22 +24,25 @@
 [- 세션 레코딩영상](https://youtu.be/1nR7MzgAW-0)
 
 
-## [제22회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
+## [제23회 모임 (2021/07/20)](https://www.meetup.com/ko-KR/awskrug/events/279274095/)
 강용석님, [정영준님](https://www.facebook.com/youngjoon.jeong) - [Building MSA in Enterprise](/deck/20210720.pdf)
 [- 세션 레코딩영상](https://youtu.be/O-4hag2jDBc)
 
-## [제21회 모임 (2021/06/15)](https://www.meetup.com/ko-KR/awskrug/events/278638827/)
+## [제22회 모임 (2021/06/15)](https://www.meetup.com/ko-KR/awskrug/events/278638827/)
 [- 세션 레코딩영상](https://youtu.be/BM8otOWxLO8)
 
 [유정열님](https://www.facebook.com/nalbam) - [아마존 EKS 업그레이드](/deck/20210616-1.pdf)
 
 김지민님 - [ECS와 컨테이너화 및 운영](/deck/20210615-2.pdf)
 
-## [제20회 모임 (2021/05/27)](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
+## [제21회 모임 (2021/05/27)](https://www.meetup.com/ko-KR/awskrug/events/278231170/)
 김주영님 - [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐보기](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 
-## [제19회 모임 (2021/11/26)](https://www.meetup.com/ko-KR/awskrug/events/274484152/)
+## [제20회 모임 (2021/11/26)](https://www.meetup.com/ko-KR/awskrug/events/274484152/)
 조성원님 - 5일만에 kops에서 EKS로 production kubernetes cluster 이전하기
+
+## [제19회 모임 (2020/04/23)](https://www.meetup.com/awskrug/events/269992784/)
+박윤곤(아이스크림 에듀) - ECS + Locust로 부하테스트 진행하기 
 
 ## [제18회 모임 (2020/01/14)](https://www.meetup.com/awskrug/events/267374797/)
 [이재성님](https://www.facebook.com/profile.php?id=100003141275368) - [여러 클러스터에 걸쳐 수천개의 노드로 쿠버네티스 스케일링하기(airbnb)](https://www.youtube.com/watch?v=ay7NibpRAYU)
