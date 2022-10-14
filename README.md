@@ -6,6 +6,17 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제27회 모임 (2022/10/11)](https://www.meetup.com/awskrug/events/288810745/)
+양승만님(GloZ) - 스팟인스턴스를 통해 EKS 요금 절약하기
+
+유정열님(당근마켓, AWS Hero) - Atlantis 와 Infracost 로 AWS 비용 예상하기
+
+
+## [제26회 모임 (2022/07/12)](https://www.meetup.com/awskrug/events/286890225/)
+이병호님(NEO) - EKS 초보자의 실패 극복하기
+
+박병진님(당근마켓) - 테라폼으로 ECR 관리하기
+
 
 ## [제25회 모임 (2022/03/22)](https://www.meetup.com/awskrug/events/284399611/)
 이용혁님 - 남이쓰던 Airflow EKS를 맨땅에서 인계받기
