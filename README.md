@@ -15,7 +15,7 @@
 ## [제26회 모임 (2022/07/12)](https://www.meetup.com/awskrug/events/286890225/)
 이병호님(NEO) - EKS 초보자의 실패 극복하기
 
-박병진님(당근마켓) - 테라폼으로 ECR 관리하기
+박병진님(당근마켓) - [테라폼으로 ECR 관리하기](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 
 
 ## [제25회 모임 (2022/03/22)](https://www.meetup.com/awskrug/events/284399611/)
