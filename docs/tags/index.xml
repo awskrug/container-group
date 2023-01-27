@@ -5,10 +5,6 @@
     <link>https://awskrug.github.io/container-group/tags/</link>
     <description>Recent content in Tags on 컨테이너 소모임</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://awskrug.github.io/container-group/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://awskrug.github.io/container-group/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
