@@ -6,11 +6,12 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제29회 모임 (2024/09/04](https://www.meetup.com/ko-KR/awskrug/events/302744221/)
+김주영 (AWS, Solutions Architect) - ECS 전문가와 함께하는 ECS 톢까놓고 이야기하기
+
 ## [제28회 모임 (2023/01/19)](https://www.meetup.com/awskrug/events/290666942/)
 임지훈(GS Neotek, AWS Ambassador Partner) - [DIY Amazon EKS with eksctl](deck/20230119-1.pdf)
-
 이현진(Datadog) - Amazon EKS 모니터링
-
 
 ## [제27회 모임 (2022/10/11)](https://www.meetup.com/awskrug/events/288810745/)
 양승만님(GloZ) - [스팟인스턴스를 통해 EKS 요금 절약하기](deck/20221011-1.pdf)
