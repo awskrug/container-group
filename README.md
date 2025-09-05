@@ -6,6 +6,10 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제32회 모임 (2025/09/04)](https://www.meetup.com/awskrug/events/310351943/)
+### [EKS 모니터링 꿀팁: 여러분의 클러스터는 안녕하신가요?](deck/EKSMonitoringSession@250904.pdf)
+- 곽명섭, 이수정, 현창종 (AWS Cloud Support Engineer)
+
 ## [제31회 모임 (2025/07/02)](https://www.meetup.com/awskrug/events/308226383)
 ### [(CDK 를 이용한) Amazon EKS Hands-on](https://catalog.workshops.aws/eks-best-practice-with-blueprints) 워크샵
 - 임지훈(GS Neotek, AWS Ambassador & Community Builder)
