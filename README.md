@@ -6,8 +6,12 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제33회 모임 (2025/09/24)](https://www.meetup.com/awskrug/events/310800846/)
+### AWS SE: EKS Deep Dive #2 [EKS에서 Karpenter 야무지게 활용하기](deck/AWS%20SE%20EKS%20Deep%20Dive%20-%20Karpenter@250925.pdf)
+- 박동혁, 이호성, 황은빛 (AWS Cloud Support Engineer)
+
 ## [제32회 모임 (2025/09/04)](https://www.meetup.com/awskrug/events/310351943/)
-### [EKS 모니터링 꿀팁: 여러분의 클러스터는 안녕하신가요?](deck/EKSMonitoringSession@250904.pdf)
+### AWS SE: EKS Deep Dive #1 [EKS 모니터링 꿀팁: 여러분의 클러스터는 안녕하신가요?](deck/EKSMonitoringSession@250904.pdf)
 - 곽명섭, 이수정, 현창종 (AWS Cloud Support Engineer)
 
 ## [제31회 모임 (2025/07/02)](https://www.meetup.com/awskrug/events/308226383)
