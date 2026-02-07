@@ -5,9 +5,9 @@
 안녕하세요! `AWSKRUG 컨테이너 소모임` 블로그 저장소입니다.
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
-## [제34회 모임 (2025/09/24)](https://www.meetup.com/awskrug/events/311219342/)
-### AWS SE: EKS Deep Dive #3 [밤잠 편히 자는 EKS 운영법: 더 이상 야근하지 마세요](deck/251030-EKS-Series#3.pdf)
-- 김보영, 박진희, 하영 (AWS Cloud Support Engineer)
+## [제34회 모임 (2025/10/30)](https://www.meetup.com/awskrug/events/311219342/)
+### AWS SE: EKS Deep Dive #3 [밤잠 편히 자는 EKS 운영법: 더 이상 야근하지 마세요](deck/251030-EKS-Series#3.pdf) 
+- 김보영, 박진희, 하영 (AWS Cloud Support Engineer) _2025 AWS Community Day 발표와 동일_
 
 ## [제33회 모임 (2025/09/24)](https://www.meetup.com/awskrug/events/310800846/)
 ### AWS SE: EKS Deep Dive #2 [EKS에서 Karpenter 야무지게 활용하기](deck/AWS%20SE%20EKS%20Deep%20Dive%20-%20Karpenter@250925.pdf)
