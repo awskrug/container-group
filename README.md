@@ -5,6 +5,11 @@
 안녕하세요! `AWSKRUG 컨테이너 소모임` 블로그 저장소입니다.
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
+
+## [제35회 모임 (2026/02/11)](https://www.meetup.com/ko-KR/awskrug/events/312746598/)
+### [AWSKRUG #container 🐳 re:Invent re:Cap 컨테이너 서비스](deck/20260211.pdf)
+- 임지훈(GS Neotek, AWS Ambassador & Community Builder)
+
 ## [제34회 모임 (2025/10/30)](https://www.meetup.com/awskrug/events/311219342/)
 ### AWS SE: EKS Deep Dive #3 [밤잠 편히 자는 EKS 운영법: 더 이상 야근하지 마세요](deck/251030-EKS-Series%233.pdf) 
 - 김보영, 박진희, 하영 (AWS Cloud Support Engineer) _2025 AWS Community Day 발표와 동일_
