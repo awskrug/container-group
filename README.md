@@ -6,6 +6,10 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제36회 모임 (2026/04/23)](https://www.meetup.com/ko-kr/awskrug/events/313959510/)
+### [Argo Workflows를 활용한 컨테이너 기반의 사내 워크플로우 도구 개발 경험기](deck/20260423.pdf)
+- 박진수(데브시스터즈, DevOps Engineer)
+
 ## [제35회 모임 (2026/02/11)](https://www.meetup.com/ko-KR/awskrug/events/312746598/)
 ### [AWSKRUG #container 🐳 re:Invent re:Cap 컨테이너 서비스](deck/20260211.pdf)
 - 임지훈(GS Neotek, AWS Ambassador & Community Builder)
