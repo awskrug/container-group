@@ -6,6 +6,13 @@
 
 `AWSKRUG 컨테이너 소모임`은 컨테이너를 다루고 운영하는 기술에 대해서 함께 토론하고 공유하는 소모임입니다.
 
+## [제37회 모임 (2026/05/29)](https://www.meetup.com/awskrug/events/314686543/)
+### EKS & Container Deep Dive Night with [CloudNet@](https://gasidaseo.notion.site/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863)
+- 송이레(StradVision, MLOps Engineer) - [컨테이너 안의 GPU, 무엇이 일어나고 어디서 깨지는가](deck/260529-01.pdf)
+- 홍창섭(가비아, Solution Architect) - [Pod에 IAM 권한 부여하기: IRSA와 Pod Identity 완전 비교](deck/260529-02.pdf)
+- 문지현(Kbank, SRE) - [교양으로 알아가는 Rootless 컨테이너](deck/260529-03.pdf)
+- 한승호(클라우드엔지니어) - [Strands Agents 기반 EKS 최적화 보고서 프로덕션 적용기](deck/260529-04.pdf)
+
 ## [제36회 모임 (2026/04/23)](https://www.meetup.com/ko-kr/awskrug/events/313959510/)
 ### [Argo Workflows를 활용한 컨테이너 기반의 사내 워크플로우 도구 개발 경험기](deck/20260423.pdf)
 - 박진수(데브시스터즈, DevOps Engineer)
